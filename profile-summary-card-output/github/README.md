@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Riichard-Lima/Riichard-Lima/main/profile-summary-card-output/github/4-productive-time.svg)
-```
-
-    
